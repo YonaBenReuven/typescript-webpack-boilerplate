@@ -1,7 +1,7 @@
 # typescript-webpack-boilerplate
 
 ```bash
-$ git clone 
+$ git clone https://github.com/YonaBenReuven/typescript-webpack-boilerplate.git
 cd typescript-webpack-boilerplate
 npm install
 ```
