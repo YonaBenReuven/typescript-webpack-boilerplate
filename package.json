@@ -18,5 +18,8 @@
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "class-validator": "^0.12.2",
+    "reflect-metadata": "^0.1.13"
+  }
 }

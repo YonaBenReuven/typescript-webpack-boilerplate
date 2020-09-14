@@ -1,6 +1,11 @@
+// @ts-check
+
 const path = require('path');
 
-module.exports = {
+/**
+ * @type { import("webpack").Configuration }
+ */
+module.exports = {	
 	mode: 'development',
 	entry: './src/index.ts',
 	output: {
